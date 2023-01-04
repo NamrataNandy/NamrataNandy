@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
-- 🔭 A data scientist by profession and problem solver by nature.
-- 🌍 Have 7+ years of experience in Analytics and Models.
+- 🔭 I am a data scientist by profession and problem solver by nature.
+- 🌍 Currently working on projects related to Data Analytics.
 - 💜 Interests: Reading, Singing, Travelling.
 
 # Skills
